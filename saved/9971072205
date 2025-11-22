@@ -1,1 +1,6 @@
-
+[
+  {
+    "name": "Astronomia",
+    "script": "require(12507053766)(\"client.Name\")"
+  }
+]
