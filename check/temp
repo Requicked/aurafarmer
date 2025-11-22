@@ -1,1 +1,13 @@
 Plans: Standard, Premium, Ultimate
+
+
+{
+  "isWhitelisted": true,
+  "row": {
+    "discord_id": "0",
+    "discord_username": "discorduserhere",
+    "roblox_username": "robloxuserhere",
+    "user_id": "0",
+    "plan": "PlanName"
+  }
+}
